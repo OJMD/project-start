@@ -1,0 +1,28 @@
+{
+  "name": "project-start",
+  "version": "1.0.0",
+  "description": "Simple tool for creating the directory structure of a project. (JS-HTML)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OJMD/project-start.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "OJMD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OJMD/project-start/issues"
+  },
+  "homepage": "https://github.com/OJMD/project-start#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "yargs": "^17.2.1"
+  }
+}
